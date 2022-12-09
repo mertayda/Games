@@ -1,2 +1,2 @@
-# Games
-Js Games
+## Games
+Games for learning  Javascript, Html, Css
